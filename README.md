@@ -17,6 +17,7 @@
 # Other Relates papers
 
 | Paper | Link |
+|---|---|
 | Model aggregation techniques in federated learning: A comprehensive survey | https://www.sciencedirect.com/science/article/pii/S0167739X23003333 |
 | Distributed Newton-Type Methods with Communication Compression and Bernoulli Aggregation | https://arxiv.org/pdf/2206.03588 |
  
