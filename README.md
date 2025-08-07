@@ -2,8 +2,8 @@
 
 | Paper | Link |
 |---|---|
-| FedNew:ACommunication-EfficientandPrivacy-PreservingNewton-TypeMethodforFederatedLearning | https://proceedings.mlr.press/v162/elgabli22a/elgabli22a.pdf |
-| EFFICIENT NEWTON-TYPE FEDERATED LEARNING WITH NON-IIDDATA | https://openreview.net/pdf?id=uaGNerHa1J |
+| FedNew: A Communication-Efficient and Privacy-Preserving Newton-Type Method for Federated Learning | https://proceedings.mlr.press/v162/elgabli22a/elgabli22a.pdf |
+| EFFICIENT NEWTON-TYPE FEDERATED LEARNING WITH NON-IID DATA | https://openreview.net/pdf?id=uaGNerHa1J |
 | FedDANE: A Federated Newton-Type Method | https://ieeexplore.ieee.org/document/9049023 |
 | Communication-Efficient Distributed Optimization using an Approximate Newton-type Method (DANE) | https://proceedings.mlr.press/v32/shamir14.html |
 | Communication-Efficient Federated Learning: A Second Order Newton-Type Method With Analog Over-the-Air Aggregation | https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9770933 |
